@@ -1,0 +1,300 @@
+*{
+    padding: 0rem;
+    margin: 0rem;
+    box-sizing: border-box;
+    
+}
+
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+
+.arriba{
+    background-color:sandybrown;
+    height:3rem;
+    width: 79rem;
+    border:solid;
+    border-style: double;
+    border-color: saddlebrown;
+}
+
+.a{
+    text-decoration:none;
+    color:fuchsia;
+    text-align: left;
+    position:relative;
+    top:1rem;
+    left:2rem;
+    background: none;
+    font-weight: bolder;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;   
+}
+
+
+h2{
+    color: blueviolet;
+    position: absolute;
+    top:11rem;
+    left:34rem;
+    font-size:medium;
+    text-decoration: underline;
+    text-decoration-color: fuchsia;
+    
+}
+
+
+
+
+.imagen1{
+    width: 50px;
+    height:50px;
+    position: relative;
+    top:-3rem;
+    left:70rem;
+   
+}
+
+
+h1{
+    color: fuchsia;
+    position: absolute;
+    text-align:center;
+    font-size: 4rem;
+    margin-left: 32rem;
+}
+
+.portada{
+    width: 50%;
+    display: block;
+    position: relative;
+    top: 3rem;
+    left: 18rem;
+    padding: 2rem;
+    
+}
+
+p{
+    position:absolute;
+    top:57rem;
+    left:18rem;
+    font-size:larger;
+    color: fuchsia;
+    
+}
+
+.grupo{
+    width:20rem;
+    height: 20rem;
+    position: relative;
+    top:10rem;
+    left:45rem;
+}
+
+footer{
+    width: 50%;
+    display: block;
+    position: relative;
+    top: -1rem;
+    left: 30rem;
+    padding: 2rem;
+    color: fuchsia;
+    
+}
+
+.abajo{
+    background-color:sandybrown;
+    height:3rem;
+    border:solid;
+    border-color: saddlebrown;
+    position:relative;
+    top:18rem;
+    
+}
+
+.imagen2{
+    width: 28%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 3rem;
+    margin-top: 6rem;
+    margin-left: 2rem;
+
+}
+
+.imagen3{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 1rem;
+    margin-top: 3rem;
+    margin-left:2rem;
+}
+
+.imagen4{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0rem;
+    margin-top: 3rem;
+    margin-left:2rem;
+    }
+
+.imagen5{
+    width: 50%;
+    display: block;
+    position: relative;
+    top: 3rem;
+    left: 20rem;
+    padding: 4rem;
+}
+
+    
+
+
+.presentacion{
+    width: 20rem;
+    position: absolute;
+    top:-35rem;
+    left: 18rem;
+    padding: 23rem;
+    color: fuchsia;
+
+    }
+
+.equipo{
+    width: 20rem;
+    position: absolute;
+    top:-4rem;
+    left: 18rem;
+    padding:23rem;
+    color:fuchsia;
+}
+
+.objetivo{
+    width: 20rem;
+    position: absolute;
+    top:18rem;
+    left: 18rem;
+    padding: 18rem;
+    color:fuchsia;
+
+}
+
+.contact1{
+    color: fuchsia;
+    padding: 22rem;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin-top: -55rem;
+    margin-left: 10rem;
+    position: relative;
+    top: 0;
+    left:0;
+}
+
+.contact2{
+    color: fuchsia;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin-top: 14rem;
+    margin-left: -10rem;
+}
+
+.phone{
+    color: fuchsia;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin-top: 10rem;
+    margin-left: 20rem;
+}
+
+.container2{
+    display: flex;
+    flex-direction:column;
+    align-items:center;
+    padding: 1rem;
+    margin-top: 10rem;
+
+} 
+    
+
+ td, th {
+    border:solid;
+    border-color: purple;
+    padding: 5rem;
+    border-width: 0.2rem;
+    
+}
+  
+.title1{
+    display: flex;
+  align-items:center;
+  color: fuchsia;
+  font-size: 4rem;
+  padding: 2rem;
+  margin-left: -13rem;
+
+
+}
+
+.title2{
+ 
+    color: blueviolet;
+    font-size:medium;
+    text-decoration: underline;
+    text-decoration-color: fuchsia;
+    
+    
+    
+}
+  
+.list{
+    display:block;
+    flex-direction:column;
+    align-items:center;
+    padding: 4rem;
+    margin-top: 12rem;
+    margin-left: 43rem;
+    color: fuchsia;
+    
+}
+
+.list2{
+    display:block;
+    flex-direction:column;
+    align-items:center;
+    padding: 2rem;
+    margin-top: 18rem;
+    margin-left: 45rem;
+    color:fuchsia;
+    
+}
+
+.picture1{
+    width:2rem;
+    height: 2rem;
+    position: absolute;
+    top:18rem;
+    left:4rem;
+    transform: scale(7%);
+}
+
+.picture2{
+    width:2rem;
+    height: 2rem;
+    position: absolute;
+    top:44rem;
+    left:4rem;
+    transform: scale(30%);
+}
+
+
